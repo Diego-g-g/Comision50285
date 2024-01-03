@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio1DiegoGauna", "Desafio1DiegoGauna\Desafio1DiegoGauna.csproj", "{F733C44A-6867-4D75-8884-328A158030C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase1Desafio1DiegoGauna", "Desafio1DiegoGauna\clase1Desafio1DiegoGauna.csproj", "{F733C44A-6867-4D75-8884-328A158030C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase2Desafio2DiegoGauna", "Desafio2DiegoGauna\clase2Desafio2DiegoGauna.csproj", "{C2540B1A-931F-40FF-BC40-F084B5877827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase2Desafio1DiegoGauna", "clase2Desafio1DiegoGauna\clase2Desafio1DiegoGauna.csproj", "{2ACD7A9F-7D40-43A3-B9CE-852C6AB62949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F733C44A-6867-4D75-8884-328A158030C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F733C44A-6867-4D75-8884-328A158030C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F733C44A-6867-4D75-8884-328A158030C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2540B1A-931F-40FF-BC40-F084B5877827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2540B1A-931F-40FF-BC40-F084B5877827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2540B1A-931F-40FF-BC40-F084B5877827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2540B1A-931F-40FF-BC40-F084B5877827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACD7A9F-7D40-43A3-B9CE-852C6AB62949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACD7A9F-7D40-43A3-B9CE-852C6AB62949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACD7A9F-7D40-43A3-B9CE-852C6AB62949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACD7A9F-7D40-43A3-B9CE-852C6AB62949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
